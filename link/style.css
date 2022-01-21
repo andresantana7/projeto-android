@@ -133,6 +133,7 @@ nav{
     background-color: var(--cor4);
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.164);
     border-radius: 5px;
+    font-family: var(--fonte-destaque);
 }
 
 nav > a{
